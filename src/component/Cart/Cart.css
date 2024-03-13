@@ -1,0 +1,9 @@
+.Cart-conteiner{
+    border: 2px solid purple;
+    border-radius: 12px;
+    padding:20px;
+}
+.cart-img{
+    width: 100px;
+    border-radius: 16px;
+}

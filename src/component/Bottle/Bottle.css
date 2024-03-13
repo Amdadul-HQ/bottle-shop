@@ -1,0 +1,14 @@
+.bottle-conteinar{
+    background-color:cornflowerblue;
+    padding: 20px;
+    height: 500px;
+    border: 1px solid whitesmoke;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.img{
+    width: 200px;
+    border-radius: 8px;
+}
