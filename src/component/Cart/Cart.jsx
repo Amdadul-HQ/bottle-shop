@@ -14,6 +14,10 @@ const Cart = ({cart,removeToCartList}) => {
     )
 }
 
-
+Cart.propTypes = {
+    cart:PropTypes.object.isRequired,
+    removeToCartList:PropTypes.object.isRequired,
+    
+}
 
 export default Cart
